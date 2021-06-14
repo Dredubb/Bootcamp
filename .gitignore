@@ -1,0 +1,118 @@
+# Remove Org Files
+/CourseMaterial/.github/
+/CourseMaterial/3-Templates
+/CourseMaterial/README.md
+/CourseMaterial/cybrscore-instructions.md
+/CourseMaterial/Contributing.md
+
+# Remove Instructor-Only Files
+Homework_Rubric.pdf
+Solved/
+Solution/
+Solutions/
+LessonPlan.md
+CourseMaterial/00-Teaching-Staff-Prework
+
+
+#Week 1
+# /CourseMaterial/1-Lesson-Plans/01-Cybersecurity-101
+# /CourseMaterial/2-Homework/01-Security-101
+
+#Week 2
+/CourseMaterial/1-Lesson-Plans/02-GRC
+/CourseMaterial/2-Homework/02-GRC
+
+# #Week 3
+/CourseMaterial/1-Lesson-Plans/03-Terminal-and-Bash
+/CourseMaterial/2-Homework/03-Terminal
+
+#Week 4
+/CourseMaterial/1-Lesson-Plans/04-Linux-SysAdmin-Fundamentals
+/CourseMaterial/2-Homework/04-Linux-SysAdmin-Fundamentals
+
+#Week 5
+/CourseMaterial/1-Lesson-Plans/05-Archiving-and-Logging-Data
+/CourseMaterial/2-Homework/05-Archiving-and-Logging-Data
+
+#Week 6
+/CourseMaterial/1-Lesson-Plans/06-Bash-Scripting-and-Programming
+/CourseMaterial/2-Homework/06-Bash-Scripting-and-Programming
+
+# #Week 7
+/CourseMaterial/1-Lesson-Plans/07-Windows-Administration-and-Hardening
+/CourseMaterial/2-Homework/07-Windows-Administration-and-Hardening
+
+#Week 8
+/CourseMaterial/1-Lesson-Plans/08-Networking-Fundamentals
+/CourseMaterial/2-Homework/08-Networking-Fundamentals
+
+#Week 9
+/CourseMaterial/1-Lesson-Plans/09-Networking-Fundamentals-II-and-CTF-Review
+/CourseMaterial/1-Lesson-Plans/09-Networking-Fundamentals-II-and-CTF-Review/3/Resources/
+/CourseMaterial/1-Lesson-Plans/09-Networking-Fundamentals-II-and-CTF-Review/3/Resources/Networking_CTF_Version_II_Solution.xlsx
+/CourseMaterial/1-Lesson-Plans/09-Networking-Fundamentals-II-and-CTF-Review/3/Resources/Networking_CTF_Key.xlsx
+/CourseMaterial/2-Homework/09-Networking-Fundamentals-II-and-CTF-Review
+
+#Week 10
+/CourseMaterial/1-Lesson-Plans/10-Cryptography
+/CourseMaterial/2-Homework/10-Cryptography
+
+#Week 11
+/CourseMaterial/1-Lesson-Plans/11-Network-Security
+/CourseMaterial/2-Homework/11-Network-Security
+
+#Week 12
+/CourseMaterial/1-Lesson-Plans/12-Cloud-Security
+/CourseMaterial/2-Homework/12-Cloud-Security
+
+#Week 13
+/CourseMaterial/1-Lesson-Plans/13-Elk-Stack-Project
+/CourseMaterial/2-Homework/13-Github-Fundamentals
+
+#Week 14
+/CourseMaterial/1-Lesson-Plans/14-Web-Development
+/CourseMaterial/2-Homework/14-Web-Development
+
+#Week 15
+/CourseMaterial/1-Lesson-Plans/15-Web-Vulnerabilities-and-Hardening
+/CourseMaterial/2-Homework/15-Web-Vulnerabilities-and-Hardening
+
+#Week 16
+/CourseMaterial/1-Lesson-Plans/16-Penetration-Testing
+/CourseMaterial/2-Homework/16-Penetration-Testing
+
+#Week 17
+/CourseMaterial/1-Lesson-Plans/17-Penetration-Testing-2
+/CourseMaterial/2-Homework/17-Penetration-Testing-2
+
+#Week 18
+/CourseMaterial/1-Lesson-Plans/18-SIEMs
+/CourseMaterial/2-Homework/18-SIEMs
+
+#Week 19
+/CourseMaterial/1-Lesson-Plans/19-SIEMs-2
+/CourseMaterial/2-Homework/19-SIEMs-2
+
+#Week 20
+/CourseMaterial/1-Lesson-Plans/20-Red-vs.-Blue-Project
+/CourseMaterial/2-Homework/20-Red-vs.-Blue-Project
+
+#Week 21
+/CourseMaterial/1-Lesson-Plans/21-Digital-Forensics
+/CourseMaterial/2-Homework/21-Digital-Forensics
+
+#Week 22
+/CourseMaterial/1-Lesson-Plans/22-Certification-Prep
+/CourseMaterial/2-Homework/22-Certification-Prep
+
+#Week 23
+/CourseMaterial/1-Lesson-Plans/23-Career-Prep
+/CourseMaterial/2-Homework/23-Career-Prep
+
+#Week 24
+/CourseMaterial/1-Lesson-Plans/24-Final-Project
+
+#Week 25
+/CourseMaterial/1-Lesson-Plans/25-Python
+
+/CourseMaterial/1-Lesson-Plans/XX-Supplemental-LPs
